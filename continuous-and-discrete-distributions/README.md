@@ -22,8 +22,8 @@ This is a python package that can be used to analyse and visualize binomial and 
     - bg_distributions/license.txt
     - bg_distributions/README.md
     - bg_distributions/setup.cfg
-    - numbers_binomial.txt
-    - numbers.txt
+    - numbers_binomial.txt: test document for binomial class
+    - numbers.txt: test document for Gaussian class
     - requirements.txt
     - setup.py
     - test.py
