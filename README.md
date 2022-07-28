@@ -15,18 +15,18 @@ This is a python package that can be used to analyse and visualize binomial and 
     - Add objects and return new mean and standard deviation e.g. result = binomial1 + binomial2
 
 # Files
-    - bg_distributions/__init__.py: initialize importing objects
+    - bg_distributions/__init__.py: initialize class
     - bg_distributions/Binomialdistribution.py: contains the Binomial child class
     - bg_distributions/Generaldistribution.py: contains the Distribution parent class
     - bg_distributions/Gaussiandistribution.py: contains the Gaussian child class
     - bg_distributions/license.txt
     - bg_distributions/README.md
     - bg_distributions/setup.cfg
-    - numbers_binomial.txt
-    - numbers.txt
+    - numbers_binomial.txt: test document for binomial class
+    - numbers.txt: test document for Gaussian class
     - requirements.txt
     - setup.py
-    - test.py
+    - test.py: Unit test
 
 # Installation
 
